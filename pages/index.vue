@@ -1,0 +1,3 @@
+<template>
+  <ipcheck />
+</template>
